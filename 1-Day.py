@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""This is the first
+    of Python course
+    spanish and english"""
+
 # Comments, Variable, input and Print
 # When you need comment something, just type has character
 # A variable is a memory space where you can save a value
